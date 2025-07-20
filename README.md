@@ -14,11 +14,11 @@ Results-driven Back-end Developer with over 3 years of experience designing, dev
 |------------------------|--------------------------------------------------------------------------------|
 | Languages              | PHP, Java, SQL, JavaScript (jQuery), HTML/CSS                                  |
 | Frameworks & Libraries | Symfony, Ibexa DXP, Spring Boot, Twig, Doctrine                                |
-| Databases              | MySQL, Redis                                                                    |
+| Databases              | MySQL, Redis                                                                   |
 | APIs & Protocols       | RESTful API design, OpenAPI/Swagger                                            |
 | DevOps & Cloud         | Docker, Nginx, Azure, CI/CD                                                    |
 | Version Control        | Git (branching strategies, code reviews)                                       |
-| Testing & Quality      | PHPUnit, JUnit, Mockito, TDD principles                                        |
+| Testing & Quality      | PHPUnit, JUnit, TDD principles                                                 |
 | Methodologies          | Agile (Scrum/Kanban), Functional Analysis, Risk Management                     |
 | Soft Skills            | Time Management, Team Collaboration, Client Communication, Problem Solving, Adaptability |
 ---
