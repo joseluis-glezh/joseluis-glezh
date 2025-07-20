@@ -2,7 +2,7 @@
 
 📍 Oviedo, Asturias, Spain  
 📧 joseluis.ghidalgo@gmail.com | 📞 +34 667 063 007  
-💼 [GitHub](https://github.com/joseluis-glezh) | [LinkedIn](https://www.linkedin.com/in/joseluis-ghidalgo/)
+💼 [LinkedIn](https://www.linkedin.com/in/joseluis-ghidalgo/)
 ---
 
 ## Professional Summary
