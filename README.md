@@ -78,7 +78,6 @@ Results-driven Back-end Developer with over 3 years of experience designing, dev
 - Ibexa DXP 4.5 Developer Training  
 - Java Bootcamp: From Zero to Employment (Udemy) · Jul 2022 – Aug 2022  
 - Spring Boot: Backend Application Development (Udemy) · Jul 2022 – Aug 2022  
-- In progress: MuleSoft Integration Developer (Trailhead)
 
 ---
 
